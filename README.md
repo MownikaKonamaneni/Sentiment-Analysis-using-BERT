@@ -11,4 +11,4 @@ By applying BERT to the dataset, we can obtain fine-grained sentiment prediction
 ## Technologies used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target = "_blank" src="[https://w7.pngwing.com/pngs/171/176/png-transparent-tensorflow-artificial-intelligence-brand-logo-learning-flow-description-angle-text-orange-thumbnail.png](https://www.gstatic.com/devrel-devsite/prod/v4adef427db21a4cd79f489fce8da23c25ef3f53705a17ddcb0611ee166b2e610/tensorflow/images/lockup.svg)">](https://www.tensorflow.org/)
+[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target = "_blank" src="https://www.gstatic.com/devrel-devsite/prod/v4adef427db21a4cd79f489fce8da23c25ef3f53705a17ddcb0611ee166b2e610/tensorflow/images/lockup.svg" width=250>](https://www.tensorflow.org/)
