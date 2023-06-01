@@ -1,6 +1,4 @@
 # Sentiment Analysis using BERT
- 
-## Overview
 This project aims to perform sentiment analysis on a dataset of 1 million tweets using BERT (Bidirectional Encoder Representations from Transformers) from TensorFlow in the Python language. The objective is to classify the sentiment of each tweet as positive, negative, or neutral. 
 
 ## Project Description
